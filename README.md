@@ -22,9 +22,13 @@ Validar experimentalmente os conceitos de:
 3. **Aceleração x Tempo** (comparando real e modelo)
 
 ## Bibliotecas usadas
+import pandas as pd  # para ler o excel e mexer com tabelas
+import numpy as np   # para fazer cálculos como média, ajuste linear e tudo mais
+import matplotlib.pyplot as plt  # para gerar gráficos
 
-- pandas
-- matplotlib
+- **pandas**: para ler o excel e mexer com tabelas
+- **numpy**: para fazer cálculos como média, ajuste linear e tudo mais (polyfit) 
+- **matplotlib**: para gerar gráficos
 
 ## ✅ Conclusão
 
